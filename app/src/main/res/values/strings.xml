@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Estilos</string>
+    <string name="texto_con_estilo">Texto con estilo</string>
+    <string name="btn2label">Segundo boton con el mismo estilo</string>
+</resources>
